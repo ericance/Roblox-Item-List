@@ -3,5 +3,8 @@
 
 This project is for a data structures final.
 
-In order to build this project, the only dependency is PyQt5. 
-This is installed with `pip install PyQt5`
+In order to build this project, the dependencies are PyQt5 and requests. 
+This is installed with:
+<br />
+<br />`pip install PyQt5`
+<br />`pip install requests`
